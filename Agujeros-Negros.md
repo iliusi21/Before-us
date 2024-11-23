@@ -5,9 +5,9 @@ Los agujeros negros, considerados uno de los fenómenos más misteriosos y fasci
 **Agujeros negros: un vistazo general**
 Un agujero negro se forma cuando una cantidad significativa de masa se concentra en un volumen extremadamente pequeño, generando una curvatura extrema en el espacio-tiempo. Existen principalmente tres tipos de agujeros negros:
 
-- Agujeros negros estelares: Formados por el colapso gravitacional de estrellas masivas.
-- Agujeros negros intermedios: Con masas intermedias, descubiertos recientemente y menos comunes.
-- Agujeros negros supermasivos: Localizados en los centros de las galaxias y con masas que van desde millones hasta miles de millones de veces la masa del Sol.
+- **Agujeros negros estelares:** Formados por el colapso gravitacional de estrellas masivas.
+- **Agujeros negros intermedios:** Con masas intermedias, descubiertos recientemente y menos comunes.
+- **Agujeros negros supermasivos:** Localizados en los centros de las galaxias y con masas que van desde millones hasta miles de millones de veces la masa del Sol.
 Los agujeros negros supermasivos son los que tienen un impacto más amplio en las galaxias y, por extensión, en el universo. Estos colosos no solo absorben materia y luz, sino que también influyen en la formación estelar, la dinámica galáctica y la distribución de la materia en escalas cósmicas.
 
 El papel de los agujeros negros en los centros galácticos

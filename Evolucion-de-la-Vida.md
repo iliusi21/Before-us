@@ -1,6 +1,6 @@
 ## Evolución de la vida: Desde organismos unicelulares a complejidades multicelulares
 
-La evolución de la vida en la Tierra es una de las historias más fascinantes del universo, una narrativa que abarca miles de millones de años y transformaciones impresionantes. Desde los primeros organismos unicelulares hasta los complejos ecosistemas multicelulares, la vida ha recorrido un largo camino marcado por innovaciones biológicas, extinciones masivas y adaptaciones increíbles.
+La evolución de la vida en la Tierra es una de las historias más fascinantes e interesante del universo, una narrativa que abarca miles de millones de años y transformaciones impresionantes. Desde los primeros organismos unicelulares hasta los complejos ecosistemas multicelulares, la vida ha recorrido un largo camino marcado por innovaciones biológicas, extinciones masivas y adaptaciones increíbles.
 
 **Los primeros pasos: los organismos unicelulares**
  Los primeros organismos fueron probablemente células simples, conocidas como procariotas, similares a las bacterias modernas. Estas células carecían de un núcleo definido y obtuvieron energía a partir de procesos químicos simples en un entorno rico en compuestos orgánicos.

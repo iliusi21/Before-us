@@ -9,7 +9,7 @@ El término "Big Bang" fue acuñado por el físico Fred Hoyle en 1949, aunque é
 
 En este estado inicial, el espacio y el tiempo no existían como conceptos separados. La singularidad era el origen de todo: la materia, la energía, el espacio-tiempo. Es importante señalar que el Big Bang no fue una explosión en el sentido clásico de la palabra; no ocurrió en un punto específico del espacio, sino que fue la creación misma del espacio y el tiempo.
 
-La Expansión del Universo
+**La Expansión del Universo**
 El Big Bang no fue una explosión hacia afuera, sino una expansión del espacio-tiempo. Esta expansión comenzó a un ritmo extremadamente rápido, conocido como la inflación cósmica, que ocurrió en los primeros momentos del universo. Durante una fracción de segundo, el universo se expandió exponencialmente, desde un tamaño infinitesimal hasta alcanzar el tamaño de una nuez, lo que resolvió varios problemas fundamentales de la cosmología, como la uniformidad observada en el universo actual y la distribución homogénea de la materia.
 
 En este período, el universo experimentó temperaturas y presiones tan extremas que cualquier tipo de materia o radiación tal como las conocemos no podía existir en forma estable. La energía dominaba el cosmos, y las partículas subatómicas se formaban y desintegraban constantemente en un proceso caótico. La radiación y las partículas estaban interrelacionadas en una sopa caliente y densa, y las interacciones entre ellas ocurrían a velocidades relativistas, lo que dificultaba la creación de estructuras estables.

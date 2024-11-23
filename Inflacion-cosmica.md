@@ -10,9 +10,9 @@ Durante la inflación, pequeñas fluctuaciones cuánticas en el espacio-tiempo f
 
 **Resuelve problemas del Big Bang clásico**
 
-- Problema del horizonte: Explica por qué regiones distantes del universo tienen propiedades similares, a pesar de que, según la expansión estándar, no deberían haber interactuado.
-- Problema de la planitud: Justifica por qué el universo tiene una geometría casi perfectamente plana.
-- Conexión con la física cuántica
+- **Problema del horizonte:** Explica por qué regiones distantes del universo tienen propiedades similares, a pesar de que, según la expansión estándar, no deberían haber interactuado.
+- **Problema de la planitud:** Justifica por qué el universo tiene una geometría casi perfectamente plana.
+- **Conexión con la física cuántica**
 La inflación une la mecánica cuántica con la cosmología, mostrando cómo las fluctuaciones cuánticas pueden tener consecuencias macroscópicas que moldean el universo entero.
 
 **Relevancia actual**
@@ -31,6 +31,6 @@ La inflación podría haber generado ondas gravitacionales, ondulaciones en el e
 **Evidencia observacional de la inflación**
 Aunque la inflación cósmica aún no ha sido confirmada directamente, existen múltiples líneas de evidencia que respaldan esta teoría:
 
-- Homogeneidad del universo: La distribución uniforme del CMB en todas las direcciones es consistente con la expansión inflacionaria.
-- Fluctuaciones del CMB: Las pequeñas variaciones en la temperatura del CMB, medidas por experimentos como COBE, WMAP y Planck, coinciden con las predicciones de la inflación.
-- Distribución a gran escala: La estructura del universo, incluyendo galaxias y cúmulos, sigue un patrón que refleja las semillas cuánticas amplificadas durante la inflación.
+- **Homogeneidad del universo:** La distribución uniforme del CMB en todas las direcciones es consistente con la expansión inflacionaria.
+- **Fluctuaciones del CMB:** Las pequeñas variaciones en la temperatura del CMB, medidas por experimentos como COBE, WMAP y Planck, coinciden con las predicciones de la inflación.
+- **Distribución a gran escala:** La estructura del universo, incluyendo galaxias y cúmulos, sigue un patrón que refleja las semillas cuánticas amplificadas durante la inflación.

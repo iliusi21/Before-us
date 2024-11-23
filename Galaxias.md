@@ -37,13 +37,13 @@ Sin la materia oscura, la formación de galaxias habría sido mucho más lenta, 
 Las galaxias en la actualidad
 Hoy en día, las galaxias tienen diversas formas y características:
 
-- Galaxias espirales
+- **Galaxias espirales**
 Estas tienen un núcleo central brillante y brazos en espiral. Un ejemplo notable es la Vía Láctea, nuestra galaxia, que alberga aproximadamente 100,000 millones de estrellas.
 
-- Galaxias elípticas
+- **Galaxias elípticas**
 Son estructuras esféricas o elipsoidales, generalmente compuestas por estrellas antiguas. Carecen de gas y polvo suficiente para formar nuevas estrellas.
 
-- Galaxias irregulares
+- **Galaxias irregulares**
 Estas carecen de una forma definida y suelen formarse como resultado de interacciones o fusiones galácticas.
 
 **El futuro de las galaxias**

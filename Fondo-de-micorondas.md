@@ -43,9 +43,9 @@ Transforman la morfología de las galaxias, creando estructuras como galaxias es
  **El Destino Final del Universo**
 El destino del universo es uno de los mayores misterios de la cosmología moderna. Dependiendo de la cantidad de materia y energía oscura, el universo podría enfrentar distintos finales:
 
-- Big Freeze: Una expansión eterna que lleva al enfriamiento completo del cosmos.
-- Big Rip: La energía oscura crece lo suficiente como para desgarrar todas las estructuras del universo.
-- Big Crunch: La gravedad supera la expansión y el universo colapsa sobre sí mismo.
+- **Big Freeze:** Una expansión eterna que lleva al enfriamiento completo del cosmos.
+- **Big Rip:** La energía oscura crece lo suficiente como para desgarrar todas las estructuras del universo.
+- **Big Crunch:** La gravedad supera la expansión y el universo colapsa sobre sí mismo.
 
 Nos ayuda a entender los límites de nuestras teorías actuales y a buscar nuevas explicaciones para los procesos cósmicos.
 
